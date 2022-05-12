@@ -33,7 +33,6 @@ class WelcomeViewController: UIViewController {
             }
             charIndex += 1
         }
-        //titleLabel.text = "⚡️FlashChat"
        
     }
     
